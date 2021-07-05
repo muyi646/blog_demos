@@ -4,7 +4,7 @@ Class-Path: xz-1.0.jar jta-1.1.jar jpam-1.1.jar guice-3.0.jar ivy-2.4.
  2.2.4.jar hppc-0.7.2.jar snappy-0.2.jar antlr-2.7.7.jar jsp-api-2.1.j
  ar okio-1.13.0.jar opencsv-2.3.jar py4j-0.10.7.jar xmlenc-0.52.jar ba
  se64-2.3.8.jar guava-14.0.1.jar janino-3.0.8.jar jets3t-0.9.4.jar jet
- ty-6.1.26.jar jline-2.12.1.jar jsr305-1.3.9.jar log4j-1.2.17.jar minl
+ ty-6.1.26.jar jline-2.12.1.jar jsr305-1.3.9.jar log.log4j-1.2.17.jar minl
  og-1.3.0.jar okhttp-3.8.1.jar stream-2.7.0.jar generex-1.0.1.jar jdo-
  api-3.0.1.jar objenesis-2.1.jar paranamer-2.8.jar pyrolite-4.13.jar s
  calap-2.11.8.jar avro-ipc-1.7.7.jar commons-io-2.4.jar httpcore-4.4.8
@@ -62,7 +62,7 @@ Class-Path: xz-1.0.jar jta-1.1.jar jpam-1.1.jar guice-3.0.jar ivy-2.4.
  r commons-configuration-1.6.jar datanucleus-api-jdo-3.2.6.jar hive-be
  eline-1.2.1.spark2.jar jackson-annotations-2.6.7.jar jackson-mapper-a
  sl-1.9.13.jar logging-interceptor-3.8.1.jar spark-catalyst_2.11-2.3.3
- .jar spark-launcher_2.11-2.3.3.jar apache-log4j-extras-1.2.17.jar eig
+ .jar spark-launcher_2.11-2.3.3.jar apache-log.log4j-extras-1.2.17.jar eig
  enbase-properties-1.1.5.jar flatbuffers-1.2.0-3f79e055.jar json4s-jac
  kson_2.11-3.2.11.jar orc-mapreduce-1.4.4-nohive.jar spark-streaming_2
  .11-2.3.3.jar validation-api-1.1.0.Final.jar hive-metastore-1.2.1.spa
